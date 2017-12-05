@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/admincogitel/Desktop/Julie/Documents/2A/Semestre1/Android/Black_mirror/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="eb02e3c31fde4b36e09242ac0059b061d35358c1">
+        <dex dex="/Users/admincogitel/Desktop/Julie/Documents/2A/Semestre1/Android/Black_mirror/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5306dafa945e3abd4250ecbc40bd92c079eb7874/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admincogitel/Desktop/Julie/Documents/2A/Semestre1/Android/Black_mirror/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/admincogitel/Desktop/Julie/Documents/2A/Semestre1/Android/Black_mirror/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_ff07c838ffa24bd6b20738892ccd567ea589e37b/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admincogitel/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/Users/admincogitel/Desktop/Julie/Documents/2A/Semestre1/Android/Black_mirror/app/build/intermediates/pre-dexed/debug/bolts-applinks-1.4.0_d6c2d25c78e50907e01702c2b0b279d0556e4b04.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admincogitel/.android/build-cache/16e018ce199cae940cb47cf281b78ce28869eaf5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2482bfd874e8b3927f4141105674ad392ff83698">
+        <dex dex="/Users/admincogitel/Desktop/Julie/Documents/2A/Semestre1/Android/Black_mirror/app/build/intermediates/pre-dexed/debug/classes_20928a013164571257d58071ac7ed4cb4566fe66.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admincogitel/.android/build-cache/bb8b59274ab483d240a2091b3437e84ddcd30f74/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="/Users/admincogitel/Desktop/Julie/Documents/2A/Semestre1/Android/Black_mirror/app/build/intermediates/pre-dexed/debug/classes_95e9f334afb5719ad8a7361804ddffe1782256dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admincogitel/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.0/support-annotations-25.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="/Users/admincogitel/Desktop/Julie/Documents/2A/Semestre1/Android/Black_mirror/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.0_a8986a35ec819364198503775cf836627839735b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admincogitel/.android/build-cache/7fb61e1fc0ce3f87d5921b0f44b226f97d46a19f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="/Users/admincogitel/Desktop/Julie/Documents/2A/Semestre1/Android/Black_mirror/app/build/intermediates/pre-dexed/debug/classes_e06e72492a7a9285ebcd210cce9e55289ca13b37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admincogitel/.android/build-cache/35aca300d99e794961b4c0b3260228fa19255722/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/admincogitel/Desktop/Julie/Documents/2A/Semestre1/Android/Black_mirror/app/build/intermediates/pre-dexed/debug/classes_708252004966810369e84b6bbde234847a57f1d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admincogitel/.android/build-cache/0cb144b227564171f50b04ec96f46c5e7b4c8a70/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="/Users/admincogitel/Desktop/Julie/Documents/2A/Semestre1/Android/Black_mirror/app/build/intermediates/pre-dexed/debug/classes_2da81669d151dbd887c6710c6b2d886ce39348ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admincogitel/.android/build-cache/701d20f79e1a0d2d9231cb8267cdbf819f84e56c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/admincogitel/Desktop/Julie/Documents/2A/Semestre1/Android/Black_mirror/app/build/intermediates/pre-dexed/debug/classes_dfc9fd9abddab6b39d09e0ee08f76e5a20a780eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admincogitel/.android/build-cache/b55da864fce9303507c032bd229a5729d742a6bd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="dc83ab7a5ce1e0296cf18a52a6edbcfef815e6cf">
+        <dex dex="/Users/admincogitel/Desktop/Julie/Documents/2A/Semestre1/Android/Black_mirror/app/build/intermediates/pre-dexed/debug/classes_3f94481684c63633750ed1926a5e6eb343fde8bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admincogitel/.android/build-cache/8e00aff07e4bdfb9f2f2849bd4330c9e052a4f81/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="/Users/admincogitel/Desktop/Julie/Documents/2A/Semestre1/Android/Black_mirror/app/build/intermediates/pre-dexed/debug/classes_7bc2fa1670d4f36f15e6d58bab093adf81ee3f63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admincogitel/.android/build-cache/d050606e4bbddccc9250801bc637e6f0abfb53a6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="82ea5a937ab84229fbd2f3fc8cf2a72cbdf0ee0f">
+        <dex dex="/Users/admincogitel/Desktop/Julie/Documents/2A/Semestre1/Android/Black_mirror/app/build/intermediates/pre-dexed/debug/classes_00a2cc334fda03ac59128fc109e5b34a60022742.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admincogitel/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.3.0/73c49077166faa4c3c0059c5f583d1d7bd1475fe/core-3.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="73c49077166faa4c3c0059c5f583d1d7bd1475fe">
+        <dex dex="/Users/admincogitel/Desktop/Julie/Documents/2A/Semestre1/Android/Black_mirror/app/build/intermediates/pre-dexed/debug/core-3.3.0_7c6703cbe3b55c914a9e2630d745f4c1f053550a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admincogitel/.android/build-cache/330c632fc3d9cccf5002a459ae8f2860ad9538de/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="/Users/admincogitel/Desktop/Julie/Documents/2A/Semestre1/Android/Black_mirror/app/build/intermediates/pre-dexed/debug/classes_04421dcaffe9f51ed1abd9747d46415e5c9696b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admincogitel/.android/build-cache/fd67a0c5e88fe8d10f021cec4b39a34de1b353fc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="70a9349df3cb6b8e23c2e5866ef157e57850e156">
+        <dex dex="/Users/admincogitel/Desktop/Julie/Documents/2A/Semestre1/Android/Black_mirror/app/build/intermediates/pre-dexed/debug/classes_4ca0c2d0ec400bc76e4c6ff321296768346f5ccf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admincogitel/.android/build-cache/ced0fcf9717177d88e1c460177f8f91150f50f93/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ab6e491b5d7bda2f47991a30f6bfe9a8b134ff8b">
+        <dex dex="/Users/admincogitel/Desktop/Julie/Documents/2A/Semestre1/Android/Black_mirror/app/build/intermediates/pre-dexed/debug/classes_2ac20340f106b2e94d668d262bcf8211415325b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admincogitel/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/admincogitel/Desktop/Julie/Documents/2A/Semestre1/Android/Black_mirror/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_eeb6f932bcc6a51de6ad5ffbb3fc8438ed8dfdd4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admincogitel/.android/build-cache/66e4d6b4e83de5a779e6a385ec5286c145842161/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="/Users/admincogitel/Desktop/Julie/Documents/2A/Semestre1/Android/Black_mirror/app/build/intermediates/pre-dexed/debug/classes_8cc9744e12fc0981992dd7c4e47392ea156a48b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admincogitel/.android/build-cache/a8e0a44663d7515bf6c2ceea504a721a0547df10/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="53e8932b1ac8c7dfc35cfeda1f9efbc9822ceaf3">
+        <dex dex="/Users/admincogitel/Desktop/Julie/Documents/2A/Semestre1/Android/Black_mirror/app/build/intermediates/pre-dexed/debug/classes_c4677ea1c92f10f2f82beaf0c04e8c4a6f26af80.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admincogitel/.android/build-cache/7527760d9f02885e9e26daedf93196a84d415d46/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0d394688dd7030b83dea8eed3fa483410c24afe0">
+        <dex dex="/Users/admincogitel/Desktop/Julie/Documents/2A/Semestre1/Android/Black_mirror/app/build/intermediates/pre-dexed/debug/classes_74de89a306e6ad625f83c52235f724739c47686a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admincogitel/.android/build-cache/55f77facf76b565c4738aa5a52c50fc68fd7edee/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b8b26b28aae0ba8e2db55ad9fe0ebc770530c5ef">
+        <dex dex="/Users/admincogitel/Desktop/Julie/Documents/2A/Semestre1/Android/Black_mirror/app/build/intermediates/pre-dexed/debug/classes_007ed31bfb433dd9529bd887f9b5fee98edafff5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admincogitel/.android/build-cache/26c9f7881ffca9c70eeb94feed27f5027f4d2f29/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c5d103b270b3f3b50d8e6b44aa8e068b0de33426">
+        <dex dex="/Users/admincogitel/Desktop/Julie/Documents/2A/Semestre1/Android/Black_mirror/app/build/intermediates/pre-dexed/debug/classes_9ba984c3efe2cf44161f16d4fbd0c3073a24ee59.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admincogitel/.android/build-cache/afa676b6797a2c527b515479f248973baffa41c6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="/Users/admincogitel/Desktop/Julie/Documents/2A/Semestre1/Android/Black_mirror/app/build/intermediates/pre-dexed/debug/classes_b9d326851b18cabb3fd6a5ecbb7d086ce6de330f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admincogitel/.android/build-cache/c8b376e3f68f1defd5cb8d2f51da1492453812db/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="/Users/admincogitel/Desktop/Julie/Documents/2A/Semestre1/Android/Black_mirror/app/build/intermediates/pre-dexed/debug/classes_ac4d30731379056e69297b4ec22847caf584396a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admincogitel/.android/build-cache/702e04060194bdc861786d04ace905121e44e701/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="287f4dec8dc2d40a238b12562b437438499cd2fb">
+        <dex dex="/Users/admincogitel/Desktop/Julie/Documents/2A/Semestre1/Android/Black_mirror/app/build/intermediates/pre-dexed/debug/classes_67e5679fc17419e93d3d8e288ee093859251fbf2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admincogitel/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/admincogitel/Desktop/Julie/Documents/2A/Semestre1/Android/Black_mirror/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_cc9f60aa5ead832792e3056986b326ce2411f7a0.jar" />
+    </item>
+
+</items>
