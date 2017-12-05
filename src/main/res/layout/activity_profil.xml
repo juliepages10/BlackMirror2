@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="26">
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="3">
+
+        <Button
+            android:id="@+id/stats"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:background="#FFFFFF"
+            android:textColor="#D9A2BA"
+            android:layout_weight="1"
+            android:text="Mes stats" />
+
+        <Button
+            android:id="@+id/posts"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:background="#FFFFFF"
+            android:textColor="#D9A2BA"
+            android:layout_weight="1"
+            android:text="Mes posts" />
+
+        <Button
+            android:id="@+id/notes"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:background="#FFFFFF"
+            android:textColor="#D9A2BA"
+            android:layout_weight="1"
+            android:text="Notes" />
+
+    </LinearLayout>
+
+    <GridLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="13"
+        android:columnCount="3"
+        android:rowCount="2">
+
+
+        <ImageButton
+            android:id="@+id/imageButton2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:srcCompat="@drawable/profil"
+            android:layout_column="0"
+            android:layout_row="0"/>
+
+        <TextView
+            android:id="@+id/noteTexte"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:inputType="textPersonName"
+            android:layout_column="1"
+            android:layout_columnSpan="2"
+            android:layout_margin="50dp"
+            android:layout_marginLeft="70dp"
+            android:layout_row="1"
+            android:text="4,5/5"
+            android:textSize="30dp"
+            android:textColor="#000000"/>
+
+
+    </GridLayout>
+
+
+    <GridLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="7"
+        android:columnCount="1"
+        android:rowCount="4">
+
+
+        <TextView
+            android:id="@+id/historique"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Historique"
+            android:textSize="18dp"
+            android:textColor="#000000"/>
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Vous avez reçu la note de 3."
+            android:textSize="18dp"
+            android:textColor="#000000"/>
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Vous avez reçu la note de 5."
+            android:textSize="18dp"
+            android:textColor="#000000"/>
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Vous avez reçu la note de 0."
+            android:textSize="18dp"
+            android:textColor="#000000"/>
+
+        <Button
+            android:id="@+id/histo"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Accéder à l'historique complet de mes notes" />
+
+    </GridLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="3">
+
+        <Button
+            android:id="@+id/newsfeed"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Retour" />
+    </LinearLayout>
+
+
+</LinearLayout>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Black_mirror</string>
+    <string name="fb_login_protocol_scheme">fb157748358163509</string>
+    <string name="facebook_app_id">157748358163509</string>
+    <string-array name="notes">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+</resources>
